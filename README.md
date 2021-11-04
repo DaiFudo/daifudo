@@ -1,5 +1,5 @@
-# Hi, I'm Ilya, currently live in the Russian Federation📡.
-Junior Frontend Developer with more than 1 years of commertial experience. I have good knowledge of JS, TS, React, U. 
+# Hi, I'm Ilya, currently live in the Russian Federation📡
+Junior Frontend Developer with more than 1 years of commertial experience. I have good knowledge of JS, TS, React, UI. 
 But I am constantly learning something new from the world of Frontend development.
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=DaiFudo&show_icons=true&count_private=true"><img
