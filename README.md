@@ -10,7 +10,7 @@ But I am constantly learning something new from the world of Frontend developmen
 </p>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/romankh3/">
+   <a href="https://www.linkedin.com/in/%D0%B8%D0%BB%D1%8C%D1%8F-%D0%B7%D0%B0%D0%B9%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-43a2171a3/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
   <a href="https://vk.com/dai_fudo">
@@ -21,15 +21,8 @@ But I am constantly learning something new from the world of Frontend developmen
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:dai.fudo@mail.ru'>roman.beskrovnyy@gmail.com</a>
+   📫 How to reach me: <a href='mailto:dai.fudo@mail.ru'>dai.fudo@mail.ru</a>
 </p>
-
-## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
-*   GitHub/GitLab/Gerrit/Bitbucket
 
 <!--
 **DaiFudo/daifudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
