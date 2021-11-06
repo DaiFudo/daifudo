@@ -10,6 +10,13 @@ But I am constantly learning something new from the world of Frontend developmen
 </p>
 
 <p align='center'>
+   <a href='https://github-readme-stats.vercel.app/api/wakatime?username=dai_fudo'><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api/wakatime?username=dai_fudo"/></a>
+</p>
+
+
+<p align='center'>
    <a href="https://www.linkedin.com/in/%D0%B8%D0%BB%D1%8C%D1%8F-%D0%B7%D0%B0%D0%B9%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-43a2171a3/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
