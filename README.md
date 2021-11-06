@@ -10,9 +10,9 @@ But I am constantly learning something new from the world of Frontend developmen
 </p>
 
 <p align='center'>
-   <a href='https://github-readme-stats.vercel.app/api/wakatime?username=dai_fudo'><img
+   <a href='https://github-readme-stats.vercel.app/api/wakatime?username=dai_fudo&layout=compact'><img
            height=150
-           src="https://github-readme-stats.vercel.app/api/wakatime?username=dai_fudo"/></a>
+           src="https://github-readme-stats.vercel.app/api/wakatime?username=dai_fudo&layout=compact"/></a>
 </p>
 
 
