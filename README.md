@@ -1,5 +1,5 @@
 # Hi, I'm Ilya, currently live in the United States📡
-Frontend Developer with more than 3~4 years of commertial experience. I have good knowledge of JS, TS, React, UI. 
+Frontend Developer with more than ~5 years of commertial experience. I have good knowledge of JS, TS, React, UI. 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=DaiFudo&show_icons=true&count_private=true"><img
            height=150
