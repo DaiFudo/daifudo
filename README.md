@@ -1,5 +1,5 @@
-# Hi, I'm Ilya, currently live in the United States📡
-Frontend Developer with more than ~5 years of commertial experience. I have good knowledge of JS, TS, React, UI. 
+# Hi, I'm Elijah, currently live in the United States📡
+Founder and CEO of TASQA.ORG and DSGNLAB, specializing in building high-load web applications and user interfaces across devices—from mobile to desktop.
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=DaiFudo&show_icons=true&count_private=true"><img
            height=150
@@ -46,5 +46,5 @@ Frontend Developer with more than ~5 years of commertial experience. I have good
    </a>
 </p>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:dai.fudo@mail.ru'>dai.fudo@mail.ru</a>
+   📫 How to reach me: <a href='mailto:dai1fudo@gmail.com'>dai1fudo@gmail.com</a>
 </p>
